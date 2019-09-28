@@ -10,6 +10,11 @@ The title management issues could potentially be mitigated by using blockchain t
 **ER721 token on ether-scan**
 ![image](https://github.com/DavidCLi/RealEstateMarketplace-Ethereum/blob/master/pics/Purchase.JPG)   
 ****
+**Contracts**  
+----
+**SolnSquareVerifier**: Completed contract that inherits ERC721 token backed through zkSnarks that enhances privacy.
+**SquareVerifier**: Implements Zero-knowledge proofs (zkSnarks).
+****
 ### Quick Start
     npm install
     truffle compile
