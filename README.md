@@ -3,8 +3,11 @@
 Decentralized house listing service to represent your title to the properties.
 The title management issues could potentially be mitigated by using blockchain technology to build immutable digital records of land titles and using blockchain for transparent transactions.
 ****
+**Token Storefront on Opensea**
 ![image](https://github.com/DavidCLi/RealEstateMarketplace-Ethereum/blob/master/pics/OpenSea.JPG)   
+**Toke on rinkeby OpenSea**
 ![image](https://github.com/DavidCLi/RealEstateMarketplace-Ethereum/blob/master/pics/Asset.JPG)   
+**ER721 token on ether-scan**
 ![image](https://github.com/DavidCLi/RealEstateMarketplace-Ethereum/blob/master/pics/Purchase.JPG)   
 ****
 ### Quick Start
