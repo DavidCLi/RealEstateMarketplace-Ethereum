@@ -7,7 +7,7 @@ The title management issues could potentially be mitigated by using blockchain t
 ![image](https://github.com/DavidCLi/RealEstateMarketplace-Ethereum/blob/master/pics/OpenSea.JPG)   
 **Toke on rinkeby OpenSea**
 ![image](https://github.com/DavidCLi/RealEstateMarketplace-Ethereum/blob/master/pics/Asset.JPG)   
-**ER721 token on ether-scan**
+**ER721 token on ether-scan (Purchase tokens)**
 ![image](https://github.com/DavidCLi/RealEstateMarketplace-Ethereum/blob/master/pics/Purchase.JPG)   
 ****
 **Contracts**  
