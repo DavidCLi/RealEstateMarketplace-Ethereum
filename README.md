@@ -3,6 +3,10 @@
 Decentralized house listing service to represent your title to the properties.
 The title management issues could potentially be mitigated by using blockchain technology to build immutable digital records of land titles and using blockchain for transparent transactions.
 ****
+![image](https://github.com/DavidCLi/RealEstateMarketplace-Ethereum/blob/master/pics/OpenSea.JPG)   
+![image](https://github.com/DavidCLi/RealEstateMarketplace-Ethereum/blob/master/pics/Asset.JPG)   
+![image](https://github.com/DavidCLi/RealEstateMarketplace-Ethereum/blob/master/pics/Purchase.JPG)   
+****
 ### Quick Start
     npm install
     truffle compile
