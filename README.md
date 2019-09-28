@@ -12,7 +12,7 @@ The title management issues could potentially be mitigated by using blockchain t
 ****
 **Contracts**  
 ----
-**SolnSquareVerifier**: Completed contract that inherits ERC721 token backed through zkSnarks that enhances privacy.
+**SolnSquareVerifier**: Completed contract that inherits ERC721 token, and through zkSnarks to enhance privacy.
 **SquareVerifier**: Implements Zero-knowledge proofs (zkSnarks).
 ****
 ### Quick Start
